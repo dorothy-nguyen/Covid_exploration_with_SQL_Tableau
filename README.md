@@ -21,6 +21,8 @@
 
 ## 3. Summary of main findings 
 
+> Answers to those questions are found over the SQL exploration process: 
+
 - The likelihood of dying if someone contracts to Covid in my country -- Finland over time
 - The likelihood of the population infected with Covid in my country over time
 -	Countries that had the highest infection rate by population
@@ -28,6 +30,7 @@
 -	Total cases, total deaths and death percentage of Covid worldwide
 -	Continents in the order of highest death count
 -	Percentage of population that received at least one Covid Vaccine per country
--	A dashboard is created on my Tableau public account to demonstrate the key findings.
+
+> A dashboard is created on my Tableau public account to demonstrate the key findings.
 
 **Check out my viz on Tableau via [`Covid updated by 0ct 2022`](https://public.tableau.com/app/profile/dorothy2029/viz/Covid_dashboard_updated_to_Oct_2022/Dashboard1) and I hope you enjoy my dashboard :smiley:**
